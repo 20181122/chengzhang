@@ -1,0 +1,16 @@
+body{
+  font-family: sans-serif;
+}
+h1, h2,{
+  font-family: sans-serif
+  color: gray
+}
+h1{
+  border-bottom: 1px solid black;
+}
+p {
+  color: maroom;
+}
+blockquote.greentea p.greentea {
+  color: green;
+}
